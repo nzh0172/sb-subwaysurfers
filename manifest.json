@@ -1,0 +1,10 @@
+{
+  "id": "com.naz.sbubwaysurfers",
+  "name": "sb-subwaysurfers",
+  "description": "Adds Subway Surfers gameplay video",
+  "version": "1.0.0",
+  "author": {
+    "name": "naz"
+  },
+  "main": "index.js"
+}
